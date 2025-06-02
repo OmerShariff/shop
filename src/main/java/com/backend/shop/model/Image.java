@@ -28,3 +28,5 @@ public class Image {
     //Will be joined to column of name "product_id" in product table
     private Product product;
 }
+
+//Image file incomplete. Need to create reference and relationship to product 
