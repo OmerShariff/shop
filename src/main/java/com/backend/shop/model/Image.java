@@ -29,4 +29,4 @@ public class Image {
     private Product product;
 }
 
-//Image file incomplete. Need to create reference and relationship to product 
+//Image file incomplete. Need to create reference and relationship
