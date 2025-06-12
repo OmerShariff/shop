@@ -33,4 +33,4 @@ public class Product {
     @OneToMany(mappedBy = "product", cascade = CascadeType.ALL, orphanRemoval = true)
     private List<Image> images;
 }
-//product file incomplete. need to create reference to Image 
+//product file incomplete. need to create reference to Imag.
