@@ -13,7 +13,7 @@ public class ProductService implements IProductService {
 
     @Override
     public Product getProductId(Long id) {
-        return null;    
+        return productRepository.findById(id).orElse(()-> new ProductNotFoundException("ProductNotFound!"));
     }
 
     @Override
