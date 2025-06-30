@@ -1,4 +1,4 @@
-package com.backend.shop;
+,package com.backend.shop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
